@@ -1,5 +1,7 @@
 # 🪷 Volume 1: Grounded Lotus System — Handheld "Magic Eye" Matrix
 
+*   👉 **[Master Quantum Cradle Assembly Guide (ASSEMBLY_NODE.md)](https://github.com):** Complete workbench bill of materials, hydraulic press metrology rules, 1.5% epoxy shrinkage pre-stress steps, and C++ phase-locked inversion cancelation firmware templates.*
+
 ## ⚠️ CRITICAL CORE ENGINE NOTATION: THE DENSE-COMPACTED PIEZO INFRASTRUCTURE
 The Grounded Lotus System does not utilize traditional clinical scanning arrays or external sensor lines. The entire diagnostic scanning engine is powered by **Active Piezo-Electric Compressive Synergy** driven by a mandatory **1.0% to 2.0% volumetric polymer curing shrinkage contraction**.
 
